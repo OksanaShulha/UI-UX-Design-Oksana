@@ -1,4 +1,4 @@
-# UI-UX-Design-Saban
+# UI-UX-Design-Oksana
 
 Practice User Interviews and Design Thinking by working in pairs to come up with your Home Page backlogs, wireframes and READMEs.
 
