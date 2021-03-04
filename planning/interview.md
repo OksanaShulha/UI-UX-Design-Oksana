@@ -20,6 +20,9 @@ He is a family guy. He is a hard worker and a well-educated person. He is creati
 - Live in Belgium
 - He works in independent, global creative company W + K AMS (HTTPS://WKAMS.COM/
 
+
+![Persona](../public/img/persona.jpg)
+
 | What About   | Information                                                                                                                                                                     |
 | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Personal     | He is a family guy. He is a hard worker and a well-educated person. He is creative. He knows a lot of languages and he loves to travel.                                         |
