@@ -1,0 +1,1 @@
+![Wireframe](../public/img/OksanaHomePage.png)

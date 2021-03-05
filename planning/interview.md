@@ -11,6 +11,16 @@
 
 ## Notes
 
+## About Oksana
+
+She was born in Ukraine and got a Bachelor's Degree in Marketing there. Now she live in Belgium and she dream of becoming a cool web developer & web designer.
+### Skills
+* English
+* Adobe Illustrator
+* Adobe Photoshop
+* Graphic Design
+
+
 ## Persona (The personality of the Visitors)
 
 He is a family guy. He is a hard worker and a well-educated person. He is creative. He knows a lot of languages and he loves to travel.
