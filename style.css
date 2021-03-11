@@ -51,7 +51,10 @@ nav ul {
 /*Header*/
 
 .header-container {
-    background: #ffe67c;
+    background: #ffe67c url(public/img/Blobs.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: contain;
     height: calc(100vh - 72px);
     display: flex;
     align-items: center;
