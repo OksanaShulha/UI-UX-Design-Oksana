@@ -12,3 +12,8 @@ Using Iconify SVG framework for my LOGO
 * HTML
 * CSS
 * Excalidraw
+
+### To make a website responsive using Bootstrap Grid Classes
+1. col-lg-6 (column - screen(large) - 6 columns it will take) PC
+2. Col-md-12 (column - screen(medium) - 12 columns it will take) Tablet
+3. col-12 Mobile
