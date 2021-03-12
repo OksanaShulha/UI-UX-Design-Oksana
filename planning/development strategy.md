@@ -6,8 +6,9 @@ Using Iconify SVG framework for my LOGO
 
 
 ### Tools
-Bootstrap
-Figma
-VScode
-HTML
-CSS
+* Bootstrap
+* Figma
+* VScode
+* HTML
+* CSS
+* Excalidraw
