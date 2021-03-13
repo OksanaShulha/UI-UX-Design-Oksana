@@ -4,7 +4,7 @@ Classically time is the first place in my Constraints. We havw only to weeks to 
 
 ## Scope
 
-We should be flexible because a half of project is a group project. We have to dive in absolutely new space such as: **CSS Framework (Bootstrap in my case because it ia the most useful framework)** and Open Source Software (Figma).
+We should be flexible because a half of project is a group project. We have to dive in absolutely new space such as: **CSS Framework (Bootstrap in my case because it is the most useful framework)** and Open Source Software (Figma).
 
 ## Quality
 
