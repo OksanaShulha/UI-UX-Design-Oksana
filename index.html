@@ -3,15 +3,24 @@
   <head>
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=Ho, initial-scale=1.0" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Home Page</title>
-    <link rel="stylesheet" href="style.css" />
+    <!-- CSS only -->
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-BmbxuPwQa2lc/FVzBcNJ7UAyJxM6wuqIj61tLrc4wSX0szH/Ev+nYRRuWlolflfl"
+      crossorigin="anonymous"
+    />
   </head>
 
   <body>
-    <div class="nav-container">
-      <div class="wrapper">
-        <nav>
+    <header>
+      <nav
+        class="navbar navbar-expand-lg navbar-light bg-light shadow p-3 mb-5 bg-body rounded"
+      >
+        <div class="container-xxl">
+          <!---Logo Start--->
           <script src="https://code.iconify.design/1/1.0.6/iconify.min.js"></script>
           <span
             class="iconify"
@@ -19,54 +28,57 @@
             data-icon="bx:bxl-ok-ru"
             style="color: #07393c; font-size: 60px"
           ></span>
-
-          <ul class="nav-items">
-            <li>
-              <a href="#">About me</a>
-            </li>
-            <li>
-              <a href="#">My portfolio</a>
-            </li>
-            <li>
-              <a href="#">Services</a>
-            </li>
-            <li>
-              <a href="#">Contact</a>
-            </li>
-          </ul>
-        </nav>
-      </div>
-    </div>
-
-    <div class="header-container">
-      <div class="wrapper">
-        <header>
-          <div class="hero-content">
-            <h1>Hi, I’m Oksana</h1>
-            <p>
-              I design and develop beautiful websites and mobile apps that
-              modern trends demand
-            </p>
-            <a href="#">Contact me</a>
+          <!-----Logo End-->
+          <button
+            class="navbar-toggler"
+            type="button"
+            data-bs-toggle="collapse"
+            data-bs-target="#navbarNav"
+            aria-controls="navbarNav"
+            aria-expanded="false"
+            aria-label="Toggle navigation"
+          >
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+              <li class="nav-item">
+                <a class="nav-link active" aria-current="page" href="#">Home</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#">My portfolio</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#">Services</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#">Contact me</a>
+              </li>
+            </ul>
           </div>
-          <div class="hero-image">
-            <img src="public\img/My photo.png" alt="" />
-            <div class="photo-bg"></div>
-          </div>
-        </header>
+        </div>
+      </nav>
+    </header>
 
-        <div class="social-icons">
-          <a href="https://www.linkedin.com/in/oksanashulha/">
-            <img src="public\img/LinkedIn Icon.svg" alt="" />
-          </a>
-          <a href="https://github.com/OksanaShulha">
-            <img src="public\img/Github Icon.svg" alt="" />
-          </a>
-          <a href="https://www.facebook.com/profile.php?id=100001182892563">
-            <img src="public\img/Facebook Icon.svg" alt="" />
-          </a>
+    <section>
+      <div class="p-3 mb-2 bg-warning text-dark">
+        <div class="container-xxl">
+          <div class="row align-items-center">
+            <div class="col-4">
+              <h1>Hi, I’m Oksana</h1>
+              <p>
+                I design and develop beautiful websites and mobile apps that
+                modern trends demand
+              </p>
+              <button type="button" class="btn btn-success">Contact me</button>
+            </div>
+            <div class="col-2"></div>
+            <div class="col-6">
+              <img src="img/My photo.png" alt="" />
+            </div>
+          </div>
         </div>
       </div>
-    </div>
+    </section>
   </body>
 </html>
