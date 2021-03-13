@@ -38,8 +38,11 @@
   - Container-xxl
 - Figma
   - Using Iconify SVG framework for my LOGO
-    <script src="https://code.iconify.design/1/1.0.6/iconify.min.js"></script>
-    <span class="iconify" data-inline="false" data-icon="bx:bxl-ok-ru" style="color: #07393c; font-size: 60px;"></span>
+   - HTML code
+      1. Add Iconify script to your page:
+       <script src="https://code.iconify.design/1/1.0.6/iconify.min.js"></script>
+      2. Use icon placeholder where you want to show icon (similar to icon fonts):
+      <span class="iconify" data-inline="false" data-icon="dashicons:html" style="font-size: 72px;"></span>
 - VScode
   - HTML
   - CSS
