@@ -13,4 +13,4 @@ Practice User Interviews and Design Thinking by working in pairs to come up with
 
 |  |  |
 | --- | --- |
-| ![oksana](public/img/Oksana-Front.png)  | ![oksana](public/img/Oksana%20-%20Back.png) |
+| ![oksana](img/Oksana-Front.png)  | ![oksana](img/Oksana%20-%20Back.png) |
